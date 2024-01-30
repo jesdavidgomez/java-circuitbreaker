@@ -1,1 +1,1 @@
-# java-circuitbreaker
+# Circuit Breaker Pattern
